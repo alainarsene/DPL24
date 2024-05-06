@@ -24,5 +24,5 @@ deep_venv\Scripts\activate     # Sur Windows
 pip install -r requirements.txt
 
 # Exécuter le projet
-streamlit run main.py
+streamlit run map_hist_prediction.py
 Renseignez votre mail (si elle vous est demandée) et l'adresse du dashboard vous sera fournie (copiez l'adresse dans un navigateur de votre choix) ou la page s'ouvrira automatiquement dans votre navigateur par défaut
